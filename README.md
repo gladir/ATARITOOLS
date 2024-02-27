@@ -14,10 +14,18 @@ Voici la liste des différents fichiers proposés dans ATARIST-TOOLS :
 			<td><b>ASC2ATARI.PAS</b></td>
 			<td>Cette commande permet de convertir un ficher ASCII en Atari 8 bits.</td>
 		</tr>  
+<tr>
+			<td><b>ASM6502.PAS</b></td>
+			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 6502.</td>
+		</tr>			
 		<tr>
 			<td><b>ATARI2ASC.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier Atari 8 bits en ASCII.</td>
 		</tr>
+	       	<tr>
+		       <td><b>RUN6502.PAS</b></td>
+		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
+		</tr>	
 </table>  
 
 <h2>Compilation</h2>
