@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans ATARITOOLS :
 			<td><b>ATARI2ASC.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier Atari 8 bits en ASCII.</td>
 		</tr>
+		<tr>
+			<td><b>DIS6502.PAS</b></td>
+			<td>Cette commande permet de désassembler un code binaire de microprocesseur 6502 en langage de programmation assembleur 6502.</td>
+		</tr>
 	       	<tr>
 		       <td><b>RUN6502.PAS</b></td>
 		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
